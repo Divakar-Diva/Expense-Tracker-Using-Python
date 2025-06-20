@@ -19,6 +19,7 @@ How to Run
 
 
 Sample Input (expenses.csv)
+
     csv
     Date,Category,Amount,Description
     2025-06-10,Food,150,Pizza at Dominos
